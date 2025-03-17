@@ -1,0 +1,10 @@
+main {
+    background-color: rgb(236, 208, 174);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.submit:hover {
+    background-color: black;
+    color: white;
+}
